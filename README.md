@@ -5,4 +5,4 @@ Machine Learning Course - Arabic
 http://bit.ly/2MhAzHj
 
 # Notebooks
-[Chapter 2]()
+[Videos 1-16](https://github.com/bakrianoo/ml-course/blob/master/California%20Housing%20Prices.ipynb)
